@@ -2,4 +2,7 @@
 **/*.out
 **/*.class
 **/*.in
-**/*.out
+**/Cargo.lock
+**/neovide_backtraces.log
+**/example1
+**/example
