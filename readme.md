@@ -14,8 +14,8 @@ with different Language
 | 07  | Deno Js |
 | 08  | Julia   |
 | 09  | Ruby    |
-| 10  | Java    |
-| 11  | Java    |
+| 10  | lua     |
+| 11  | R       |
 | 12  | Java    |
 | 13  | Java    |
 | 14  | Java    |
