@@ -16,7 +16,7 @@ with different Language
 | 09  | Ruby    |
 | 10  | lua     |
 | 11  | R       |
-| 12  | Java    |
+| 12  | Kotlin  |
 | 13  | Java    |
 | 14  | Java    |
 | 15  | Java    |
