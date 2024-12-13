@@ -1,10 +1,6 @@
 function helper(i, n, acc, arr, target) {
 	if (i == n) {
-		if (acc == target) {
-			return true;
-		} else {
-			return false;
-		}
+		return acc == target;
 	}
 
 	var res = false;
